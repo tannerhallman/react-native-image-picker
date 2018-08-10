@@ -54,6 +54,7 @@ import com.facebook.react.modules.core.PermissionAwareActivity;
 import static com.imagepicker.utils.MediaUtils.*;
 import static com.imagepicker.utils.MediaUtils.createNewFile;
 import static com.imagepicker.utils.MediaUtils.getResizedImage;
+import com.facebook.react.modules.core.PermissionAwareActivity;
 
 public class ImagePickerModule extends ReactContextBaseJavaModule
         implements ActivityEventListener
